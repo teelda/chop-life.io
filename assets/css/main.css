@@ -418,6 +418,6 @@ header .overlay{
 }
 .scrollTop{
 	position: fixed;
-	bottom: 50px;
+	bottom: 20px;
 	right: 10px;
 }
