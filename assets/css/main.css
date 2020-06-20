@@ -350,7 +350,7 @@ header .overlay{
 	height:400px;
 }*/
 #team{
-	padding: 1.5rem;
+/* 	padding: 1.5rem; */
 	background: linear-gradient(rgba(255,255,255,0.7), rgba(255,255,255,0.7)), url(../images/main3.jpg)center/cover fixed no-repeat;
 }
 .team-icons{
@@ -418,6 +418,6 @@ header .overlay{
 }
 .scrollTop{
 	position: fixed;
-	bottom: 70px;
+	bottom: 50px;
 	right: 10px;
 }
