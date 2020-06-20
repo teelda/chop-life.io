@@ -367,17 +367,18 @@ header .overlay{
 }
 .card-deck {
   margin: 0 -15px;
-  justify-content: space-between;
+/*   justify-content: space-between; */
 }
 
 .card-deck .card {
-  margin: 0 0 1rem;
+  margin: 0 ;
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
   .card-deck .card {
     -ms-flex: 0 0 48.7%;
     flex: 0 0 48.7%;
+    margin-top: 0 !important; 
   }
 }
 
@@ -385,6 +386,7 @@ header .overlay{
   .card-deck .card {
     -ms-flex: 0 0 32%;
     flex: 0 0 32%;
+    margin-top:0 !important:
   }
 }
 
