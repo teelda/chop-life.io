@@ -64,8 +64,8 @@ $(document).ready(function(){
 	// ripples
 
 	$("header, .info").ripples({
-  		dropRadius: 25,
-  		perturbance: 0.7,
+  		dropRadius: 20,
+  		perturbance: 0.07,
 	});
 
 	// magnific-popup
