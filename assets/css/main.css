@@ -365,9 +365,9 @@ header .overlay{
 	border-color: white;
 	color:#df2f60;
 }
-.card-deck {
+/* .card-deck {
   margin: 0 -15px;
-/*   justify-content: space-between; */
+  justify-content: space-between;
 }
 
 .card-deck .card {
@@ -396,7 +396,7 @@ header .overlay{
     -ms-flex: 0 0 24%;
     flex: 0 0 24%;
   }
-}
+} */
 /*########################contact#########################*/
 .height-60{
 	min-height:60vh;
